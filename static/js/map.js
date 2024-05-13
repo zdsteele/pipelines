@@ -73,6 +73,8 @@ d3.json('/data_pipes').then(function(response) {
             }
         });
 
+        // -------------------------------------------------------------------------------------------------------
+
         // OIL SPILL POINTS
         d3.json('/data').then(function(response) {
             var data = JSON.parse(response);
@@ -82,61 +84,93 @@ d3.json('/data_pipes').then(function(response) {
                 return feature.properties['Net Loss (Barrels)'];
             });
 
-            // Define the legend control
-            var legend = L.control({ position: 'bottomright' });
+        // Define the colorRanges and getColor function
+        var colorRanges = [
+          { range: [0, 500], color: '#ffffcc' },
+          { range: [501, 1000000], color: '#ffcc99' },
+          { range: [1000001, 2000000], color: '#ff9966' },
+          { range: [2000001, 3000000], color: '#ff6600' },
+          { range: [3000001, Infinity], color: '#ff0000' }
+        ];
 
-            // Add the legend
-            legend.onAdd = function(map) {
+        function getColor(allCost) {
+          var colorRange = colorRanges.find(function(range) {
+            return allCost >= range.range[0] && allCost <= range.range[1];
+          });
+
+          return colorRange ? colorRange.color : 'gray';
+        }
+
+          // Generate the legend HTML
+          var legend = L.control({ position: 'bottomright' });
+
+          legend.onAdd = function(map) {
             var div = L.DomUtil.create('div', 'legend');
-            var labels = ['Aboveground', 'Underground'];
-            var colors = ['red', 'purple'];
+            var labels = [];
 
-            for (var i = 0; i < labels.length; i++) {
-                div.innerHTML += '<div class="legend-item">' +
-                '<svg class="legend-circle" width="12" height="12">' +
-                '<circle cx="6" cy="6" r="5" style="fill:' + colors[i] + ';"></circle>' +
-                '</svg>' +
-                '<span class="legend-label">' + labels[i] + '</span>' +
-                '</div>';
-            }
+            // Generate legend labels and colors
+            colorRanges.forEach(function(range) {
+              var colorCircle = '<span style="display:inline-block;border-radius:50%;width:12px;height:12px;background-color:' + range.color + '"></span>';
+              var minRange = range.range[0].toLocaleString();
+              var maxRange = range.range[1] !== Infinity ? range.range[1].toLocaleString() : '+';
+              var label = '<div>' + colorCircle + ' $' + minRange + ' &ndash; $' + maxRange + '</div>';
+              labels.push(label);
+            });
+
+            // Add legend title and labels to the div
+            div.innerHTML = '<h4>Spill Remediation Costs</h4>' + labels.join('');
 
             return div;
-            };
+          };
 
-
-        // Create the oil spill layer
-        var oilSpillLayer = L.geoJSON(data, {
-        pointToLayer: function(feature, latlng) {
-            var netLoss = feature.properties['Net Loss (Barrels)'];
-            var operatorName = feature.properties['Operator Name'];
-            var pipeLineLocation = feature.properties['Pipeline Location'];
-            var allCost = feature.properties['All Costs'];
-            var pipeLineSurface = feature.properties['Pipeline Type'];
-
-            var circleOptions = {
-            radius: Math.sqrt(allCost) * 10,
-            fillColor: pipeLineSurface === 'aboveground' ? 'red' : 'purple',
-            color: 'white',
-            weight: .5,
-            opacity: 1,
-            fillOpacity: 0.7
-            };
-
-            var circle = L.circle(latlng, circleOptions);
-            circle.bindPopup(`Operator: ${operatorName}<br>Net Loss: ${netLoss} barrels<br>All Costs: ${allCost}<br>Surface Location: ${pipeLineSurface}`);
-
-            return circle;
-        }
-        });
-
-            // Add the oil spill layer to the map
-            // oilSpillLayer.addTo(map);
-
-            // Add the legend control to the map
-            legend.addTo(map);
-
-
-
+          // Add the legend to the map
+          legend.addTo(map);
+   
+   
+               var oilSpillLayer = L.geoJSON(data, {
+                pointToLayer: function(feature, latlng) {
+                  var netLoss = feature.properties['Net Loss (Barrels)'];
+                  var operatorName = feature.properties['Operator Name'];
+                  var pipeLineLocation = feature.properties['Pipeline Location'];
+                  var allCost = feature.properties['All Costs'];
+                  var pipeLineSurface = feature.properties['Pipeline Type'];
+              
+                  var circleOptions = {
+                    radius: Math.sqrt(netLoss) * 1000,
+                    fillColor: getColor(allCost),
+                    color: 'white',
+                    weight: .5,
+                    opacity: 1,
+                    fillOpacity: 0.7
+                  };
+                  var circle = L.circle(latlng, circleOptions);
+                  circle.bindPopup(`Operator: ${operatorName}<br>Net Loss: ${netLoss} barrels<br>All Costs: $${allCost.toLocaleString()}<br>Surface Location: ${pipeLineSurface}`);
+              
+                  return circle;
+                }
+              });
+              
+              function getColor(allCost) {
+                // Define your custom ranges and corresponding colors
+                var colorRanges = [
+                  { range: [0, 500], color: '#ffffcc' },
+                  { range: [501, 1000000], color: '#ffcc99' },
+                  { range: [1000001, 2000000], color: '#ff9966' },
+                  { range: [2000001, 3000000], color: '#ff6600' },
+                  { range: [3000001, Infinity], color: '#ff0000' }
+                ];
+              
+                // Find the color range that matches the allCost value
+                var colorRange = colorRanges.find(function(range) {
+                  return allCost >= range.range[0] && allCost <= range.range[1];
+                });
+              
+                // Return the color from the matched color range
+                return colorRange ? colorRange.color : 'gray';
+              }
+             
+   
+               
             // Create a layer control and add the layers to it
             var layerControl = L.control.layers(null, null, { collapsed: false });
             layerControl.addOverlay(pipelineLayer, 'Pipelines');
@@ -153,30 +187,33 @@ d3.json('/data_pipes').then(function(response) {
                 oilSpillLayer.bringToFront();
               });
 
-          // Add a title to the map
-        var title = L.control({ position: 'topright' });
-        title.onAdd = function(map) {
-        var div = L.DomUtil.create('div', 'map-title');
-        div.innerHTML = '<h3>Costs of Pipeline Failures</h3>';
-        return div;
-        };
+            // Add a title to the map
+            var title = L.control({ position: 'topright' });
+            title.onAdd = function(map) {
+            var div = L.DomUtil.create('div', 'map-title');
+            div.innerHTML = '<h3>Circle size based on volumn spilled</h3>';
+            return div;
+            };
 
-        // Customize the title color
-        var titleStyle = document.createElement('style');
-        titleStyle.innerHTML = '.map-title h3 { color: #99003d; }';
-        document.head.appendChild(titleStyle);
+            // Customize the title color
+            var titleStyle = document.createElement('style');
+            titleStyle.innerHTML = '.map-title h3 { color: #f8f8f8; }';
+            document.head.appendChild(titleStyle);
 
-        // Add the title control to the map
-        title.addTo(map);
-                    // Add the title control to the map
-                    title.addTo(map);
-
+            // Add the title control to the map
+            title.addTo(map);
+                        // Add the title control to the map
+                        title.addTo(map);
 
         });
     } else {
         // console.log('Invalid GeoJSON data');
     }
+
+    
 });
+
+
         
   });
 

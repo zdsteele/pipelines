@@ -38,6 +38,11 @@ def get_data_pipes():
 def index():
     return render_template('map_dashboard.html')
 
+# Charts
+@app.route('/Charts')
+def charts():
+    return render_template('charts.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)

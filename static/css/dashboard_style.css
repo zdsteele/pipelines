@@ -13,6 +13,11 @@
   width: 100%;
 }
 
+#correlation {
+  height: 100%;
+  width: 100%;
+}
+
 .container-fluid {
   height: 100vh;
 }
@@ -30,8 +35,4 @@
   float: left;
   margin-right: 8px;
 }
-
-/* #table {
-  padding-left: 20px;
-} */
 

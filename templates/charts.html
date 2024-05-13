@@ -4,9 +4,8 @@
 
 {% block scripts %}
 
-<script src="{{ url_for('static', filename='js/map.js') }}"></script>
-<script src="{{ url_for('static', filename='js/correlation.js') }}"></script>
-<!-- <script src="{{ url_for('static', filename='js/graphs.js') }}"></script> -->
+<!-- <script src="{{ url_for('static', filename='js/map.js') }}"></script> -->
+<script src="{{ url_for('static', filename='js/graphs.js') }}"></script>
 <link rel="stylesheet"
   href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
 <link rel="stylesheet"
@@ -18,9 +17,19 @@
 {% block content %}
 
 <div class="container-fluid">
-
-  <div class="row justify-content-center align-items-center mb-4" style="padding-top: 200px;">
+  <div class="row justify-content-center align-items-center mb-4">
     <div class="col-12 col-md-2">
+      <div id="table"></div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div id="scatter-plot"></div>
+    </div>
+    <div class="col-12 col-md-2"></div>
+  </div>
+
+  <div class="row justify-content-center align-items-center mb-4">
+    <div class="col-12 col-md-2">
+      <div id="pie-chart"></div>
     </div>
     <div class="col-12 col-md-6">
       <div class="map-container">
@@ -28,23 +37,10 @@
       </div>
     </div>
     <div class="col-12 col-md-2">
+      <div id="bar"></div>
     </div>
   </div>
-
-  <!-- <div class="row justify-content-center align-items-center mb-4" style="padding-top: 10px;">
-    <div class="col-12 col-md-2">
-    </div>
-    <div class="col-12 col-md-6">
-      <div class="map-container">
-        <div id="correlation"></div>
-      </div>
-    </div>
-    <div class="col-12 col-md-2">
-    </div>
-  </div>
-
-</div> -->
-
+</div>
 
 
 {% endblock %}
