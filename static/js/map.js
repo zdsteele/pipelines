@@ -67,8 +67,8 @@ d3.json('/data_pipes').then(function(response) {
         // Create a Leaflet GeoJSON layer for pipelines
         pipelineLayer = L.geoJSON(data, {
             style: {
-                color: 'blue',
-                weight: .5,
+                color: '#40ff00',
+                weight: .25,
                 opacity: 1
             }
         });
@@ -191,13 +191,13 @@ d3.json('/data_pipes').then(function(response) {
             var title = L.control({ position: 'topright' });
             title.onAdd = function(map) {
             var div = L.DomUtil.create('div', 'map-title');
-            div.innerHTML = '<h3>Circle size based on volumn spilled</h3>';
+            div.innerHTML = '<h4> Radius based on volumn of barrels spilled</h4>';
             return div;
             };
 
             // Customize the title color
             var titleStyle = document.createElement('style');
-            titleStyle.innerHTML = '.map-title h3 { color: #f8f8f8; }';
+            titleStyle.innerHTML = '.map-title h4 { color: #f8f8f8; }';
             document.head.appendChild(titleStyle);
 
             // Add the title control to the map
