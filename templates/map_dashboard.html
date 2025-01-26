@@ -4,7 +4,7 @@
 
 {% block scripts %}
 
-<script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
 <script src="{{ url_for('static', filename='js/correlation.js') }}"></script>
 <!-- <script src="{{ url_for('static', filename='js/graphs.js') }}"></script> -->
 <link rel="stylesheet"
@@ -12,38 +12,57 @@
 <link rel="stylesheet"
   href="{{ url_for('static', filename='css/dashboard_style.css') }}">
 <link rel="stylesheet" href="{{ url_for('static', filename='css/bass.css') }}">
+
+
+<script src="{{ url_for('static', filename='js/generate_options.js') }}"></script>
+<script src="{{ url_for('static', filename='js/spill_per_distance.js') }}"></script>
+<script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
 <!-- <link rel="stylesheet" href="static/css/kanji.css"> -->
 {% endblock %}
 
 {% block content %}
 
 <div class="container-fluid">
-
-  <div class="row justify-content-center align-items-center mb-4" style="padding-top: 200px;">
-    <div class="col-12 col-md-2">
+  <div class="row align-items-center mb-4 mt-5">
+    <div class="col-6 col-md-3 d-flex justify-content-end">
+      <label for="operatorFilter" class="me-3 mb-0">Filter by Year:</label>
     </div>
+    <div class="col-6 col-md-3">
+      <div id="parent-container">
+      <select id="year-filter" class="form-select" style="background-color: #cfe0de; color: blue;">
+        <option value="">All Years</option>
+      </select>
+    </div>
+    <!-- <div class="filter-container">
+      <label>
+        <input type="checkbox" id="inflation-adjustment">
+        Adjust for Inflation
+      </label> -->
+    </div>
+    <div class="col-12 col-md-6"></div>
+  </div>
+
+  <div class="row justify-content-center align-items-center mb-4">
+    <div class="col-12 col-md-2"></div>
     <div class="col-12 col-md-6">
       <div class="map-container">
         <div id="map"></div>
       </div>
     </div>
-    <div class="col-12 col-md-2">
-    </div>
+    <div class="col-12 col-md-2"></div>
   </div>
-
-  <!-- <div class="row justify-content-center align-items-center mb-4" style="padding-top: 10px;">
-    <div class="col-12 col-md-2">
-    </div>
+  <div class="row justify-content-center align-items-center mb-4">
+    <div class="col-12 col-md-2"></div>
     <div class="col-12 col-md-6">
-      <div class="map-container">
-        <div id="correlation"></div>
-      </div>
+        <!-- <div id="chart-container"></div> -->
     </div>
-    <div class="col-12 col-md-2">
-    </div>
+    <div class="col-12 col-md-2"></div>
   </div>
+  
+</div>
 
-</div> -->
+
 
 
 

@@ -1,0 +1,2359 @@
+{
+    "oneok ngl pipeline lp": {
+        "2010": {
+            "Net Loss (Barrels)": 18623.04
+        },
+        "2011": {
+            "Net Loss (Barrels)": 964.0799999999999
+        },
+        "2012": {
+            "Net Loss (Barrels)": 24.72
+        }
+    },
+    "portland pipeline corp": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "petrologistics olefins, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 3.31
+        },
+        "2011": {
+            "Net Loss (Barrels)": 5.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 14.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 7.0
+        }
+    },
+    "enbridge energy, limited partnership": {
+        "2010": {
+            "Net Loss (Barrels)": 4075.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 1874.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.48
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "plains pipeline, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 15.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 40.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1957.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 250.0
+        }
+    },
+    "kinder morgan liquid terminals, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 7.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 36.03
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.31
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.76
+        },
+        "2014": {
+            "Net Loss (Barrels)": 3.49
+        },
+        "2015": {
+            "Net Loss (Barrels)": 21.33
+        },
+        "2016": {
+            "Net Loss (Barrels)": 7.16
+        }
+    },
+    "mobil corp": {
+        "2010": {
+            "Net Loss (Barrels)": 0.24
+        },
+        "2011": {
+            "Net Loss (Barrels)": 1.38
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 1.2
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.54
+        }
+    },
+    "conocophillips": {
+        "2010": {
+            "Net Loss (Barrels)": 4639.5
+        },
+        "2011": {
+            "Net Loss (Barrels)": 134.63
+        },
+        "2012": {
+            "Net Loss (Barrels)": 2.48
+        }
+    },
+    "targa resources operating lp": {
+        "2010": {
+            "Net Loss (Barrels)": 2237.0
+        }
+    },
+    "nustar logistics, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 3.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.23
+        },
+        "2013": {
+            "Net Loss (Barrels)": 1935.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 9260.6
+        },
+        "2016": {
+            "Net Loss (Barrels)": 2.48
+        }
+    },
+    "jayhawk pipeline llc": {
+        "2010": {
+            "Net Loss (Barrels)": 7.21
+        },
+        "2011": {
+            "Net Loss (Barrels)": 213.8
+        },
+        "2012": {
+            "Net Loss (Barrels)": 21.07
+        },
+        "2013": {
+            "Net Loss (Barrels)": 135.5
+        },
+        "2014": {
+            "Net Loss (Barrels)": 11.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.15
+        },
+        "2016": {
+            "Net Loss (Barrels)": 202.95
+        }
+    },
+    "plains marketing, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.24
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "ccps transportation, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.07
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "magellan ammonia pipeline, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 467.62
+        },
+        "2011": {
+            "Net Loss (Barrels)": 19.79
+        },
+        "2012": {
+            "Net Loss (Barrels)": 90.64
+        },
+        "2013": {
+            "Net Loss (Barrels)": 57.21
+        },
+        "2014": {
+            "Net Loss (Barrels)": 43.27
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.2
+        },
+        "2016": {
+            "Net Loss (Barrels)": 1548.1
+        }
+    },
+    "shell pipeline co., l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 560.63
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.24000000000000002
+        },
+        "2012": {
+            "Net Loss (Barrels)": 432.11
+        },
+        "2013": {
+            "Net Loss (Barrels)": 415.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 1.49
+        },
+        "2015": {
+            "Net Loss (Barrels)": 111.77
+        },
+        "2016": {
+            "Net Loss (Barrels)": 116.91
+        }
+    },
+    "koch pipeline company, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 36.54
+        },
+        "2011": {
+            "Net Loss (Barrels)": 9.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 2.39
+        },
+        "2013": {
+            "Net Loss (Barrels)": 8.66
+        },
+        "2014": {
+            "Net Loss (Barrels)": 4.62
+        },
+        "2015": {
+            "Net Loss (Barrels)": 8.719999999999999
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "kiantone pipeline corp": {
+        "2010": {
+            "Net Loss (Barrels)": 0.04
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.1
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "pacific pipeline system llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "te products pipeline company, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 3.05
+        }
+    },
+    "magellan pipeline company, lp": {
+        "2010": {
+            "Net Loss (Barrels)": 202.53
+        },
+        "2011": {
+            "Net Loss (Barrels)": 3415.48
+        },
+        "2012": {
+            "Net Loss (Barrels)": 396.75
+        },
+        "2013": {
+            "Net Loss (Barrels)": 39.3
+        },
+        "2014": {
+            "Net Loss (Barrels)": 11.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 159.32
+        },
+        "2016": {
+            "Net Loss (Barrels)": 40.56
+        }
+    },
+    "explorer pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 512.96
+        }
+    },
+    "plantation pipe line co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 4872.8
+        },
+        "2015": {
+            "Net Loss (Barrels)": 9.52
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.12
+        }
+    },
+    "nustar pipeline operating partnership l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 3.8299999999999996
+        },
+        "2011": {
+            "Net Loss (Barrels)": 103.26
+        },
+        "2012": {
+            "Net Loss (Barrels)": 50.2
+        },
+        "2013": {
+            "Net Loss (Barrels)": 3.35
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1.8
+        },
+        "2016": {
+            "Net Loss (Barrels)": 12.4
+        }
+    },
+    "loop inc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "belle fourche pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 7.12
+        },
+        "2011": {
+            "Net Loss (Barrels)": 2675.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 20.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 20.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 5.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 5.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 1402.0
+        }
+    },
+    "semgroup lp": {
+        "2010": {
+            "Net Loss (Barrels)": 18.12
+        }
+    },
+    "west shore pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.05
+        },
+        "2011": {
+            "Net Loss (Barrels)": 9.5
+        },
+        "2012": {
+            "Net Loss (Barrels)": 839.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.12
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "buckeye partners, lp": {
+        "2010": {
+            "Net Loss (Barrels)": 489.7
+        },
+        "2011": {
+            "Net Loss (Barrels)": 357.12
+        },
+        "2012": {
+            "Net Loss (Barrels)": 114.69999999999999
+        },
+        "2013": {
+            "Net Loss (Barrels)": 66.11
+        },
+        "2014": {
+            "Net Loss (Barrels)": 52.54
+        },
+        "2015": {
+            "Net Loss (Barrels)": 12.48
+        },
+        "2016": {
+            "Net Loss (Barrels)": 48.42
+        }
+    },
+    "sunoco pipeline l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 269.24
+        },
+        "2011": {
+            "Net Loss (Barrels)": 1127.17
+        },
+        "2012": {
+            "Net Loss (Barrels)": 1378.81
+        },
+        "2013": {
+            "Net Loss (Barrels)": 772.41
+        },
+        "2014": {
+            "Net Loss (Barrels)": 165.79
+        },
+        "2015": {
+            "Net Loss (Barrels)": 95.56
+        },
+        "2016": {
+            "Net Loss (Barrels)": 8342.43
+        }
+    },
+    "ldh energy pipeline l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "colonial pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 10.969999999999999
+        },
+        "2011": {
+            "Net Loss (Barrels)": 2.79
+        },
+        "2012": {
+            "Net Loss (Barrels)": 48.95
+        },
+        "2013": {
+            "Net Loss (Barrels)": 27.7
+        },
+        "2014": {
+            "Net Loss (Barrels)": 214.51
+        },
+        "2015": {
+            "Net Loss (Barrels)": 66.01
+        },
+        "2016": {
+            "Net Loss (Barrels)": 12558.99
+        }
+    },
+    "mid - valley pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 20.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 11.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 2.18
+        },
+        "2014": {
+            "Net Loss (Barrels)": 449.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 5.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "enbridge pipelines (north dakota) llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chaparral energy, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 2.99
+        },
+        "2013": {
+            "Net Loss (Barrels)": 17.8
+        },
+        "2014": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1240.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 1415.1
+        }
+    },
+    "enterprise products operating llc": {
+        "2010": {
+            "Net Loss (Barrels)": 10399.720000000001
+        },
+        "2011": {
+            "Net Loss (Barrels)": 4764.26
+        },
+        "2012": {
+            "Net Loss (Barrels)": 6822.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 19407.65
+        },
+        "2014": {
+            "Net Loss (Barrels)": 3403.22
+        },
+        "2015": {
+            "Net Loss (Barrels)": 60289.25
+        },
+        "2016": {
+            "Net Loss (Barrels)": 7753.400000000001
+        }
+    },
+    "exxonmobil pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 1.81
+        },
+        "2011": {
+            "Net Loss (Barrels)": 1521.94
+        },
+        "2012": {
+            "Net Loss (Barrels)": 880.52
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 9.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 681.11
+        }
+    },
+    "sinclair transportation company": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 200.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 105.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "teppco crude pipeline, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 4.4
+        }
+    },
+    "sfpp, lp": {
+        "2010": {
+            "Net Loss (Barrels)": 42.88
+        },
+        "2011": {
+            "Net Loss (Barrels)": 14.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.2
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.89
+        }
+    },
+    "enbridge pipelines (ozark) l.l.c.": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 175.25
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bp pipeline (north america) inc.": {
+        "2010": {
+            "Net Loss (Barrels)": 3.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "sunoco, inc (r&m)": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "whitecap pipe line company, l.l.c.": {
+        "2010": {
+            "Net Loss (Barrels)": 5.7
+        }
+    },
+    "progress energy": {
+        "2010": {
+            "Net Loss (Barrels)": 95.0
+        }
+    },
+    "kinder morgan pipelines (usa) inc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bridger lake, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron pipe line co": {
+        "2010": {
+            "Net Loss (Barrels)": 597.78
+        },
+        "2011": {
+            "Net Loss (Barrels)": 13075.26
+        },
+        "2012": {
+            "Net Loss (Barrels)": 3137.26
+        },
+        "2013": {
+            "Net Loss (Barrels)": 4359.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron products company": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 9.0
+        }
+    },
+    "valero terminaling and distribution company": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 250.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 24.0
+        }
+    },
+    "marathon pipe line llc": {
+        "2010": {
+            "Net Loss (Barrels)": 12.52
+        },
+        "2011": {
+            "Net Loss (Barrels)": 2357.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 7.3999999999999995
+        },
+        "2014": {
+            "Net Loss (Barrels)": 306.8
+        },
+        "2015": {
+            "Net Loss (Barrels)": 151.1
+        },
+        "2016": {
+            "Net Loss (Barrels)": 860.1700000000001
+        },
+        "2017": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "houston refining lp.": {
+        "2010": {
+            "Net Loss (Barrels)": 0.35
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.05
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "exxonmobil oil corp - west coast": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "calnev pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 2.68
+        }
+    },
+    "tesoro - high plains pipeline company": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "kinder morgan co2 co. lp": {
+        "2010": {
+            "Net Loss (Barrels)": 325.9
+        },
+        "2012": {
+            "Net Loss (Barrels)": 19.03
+        },
+        "2013": {
+            "Net Loss (Barrels)": 7.63
+        },
+        "2014": {
+            "Net Loss (Barrels)": 2187.8
+        },
+        "2015": {
+            "Net Loss (Barrels)": 40.3
+        },
+        "2016": {
+            "Net Loss (Barrels)": 294.08
+        }
+    },
+    "tc oil pipeline operations inc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.11
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "magellan terminals holdings, lp": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 304.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.02
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.08
+        },
+        "2015": {
+            "Net Loss (Barrels)": 5.47
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "alyeska pipeline service co": {
+        "2010": {
+            "Net Loss (Barrels)": 1119.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "rocky mountain pipeline system, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 4.1
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "amoco oil co": {
+        "2010": {
+            "Net Loss (Barrels)": 1241.0
+        }
+    },
+    "citgo products pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.24
+        },
+        "2013": {
+            "Net Loss (Barrels)": 158.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.37
+        }
+    },
+    "suncor energy (usa) pipeline co.": {
+        "2010": {
+            "Net Loss (Barrels)": 5.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 5.0
+        }
+    },
+    "west texas gulf pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 4.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 12.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 3.46
+        },
+        "2013": {
+            "Net Loss (Barrels)": 3.1
+        },
+        "2014": {
+            "Net Loss (Barrels)": 3.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 216.74
+        },
+        "2016": {
+            "Net Loss (Barrels)": 205.0
+        }
+    },
+    "dixie pipeline": {
+        "2010": {
+            "Net Loss (Barrels)": 3489.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 22.0
+        }
+    },
+    "oxy usa inc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.2
+        }
+    },
+    "white cliffs pipeline, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.5
+        },
+        "2014": {
+            "Net Loss (Barrels)": 4.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.1
+        },
+        "2016": {
+            "Net Loss (Barrels)": 35.0
+        }
+    },
+    "citgo pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.6
+        },
+        "2012": {
+            "Net Loss (Barrels)": 57.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 20.0
+        }
+    },
+    "cenex pipeline llc": {
+        "2010": {
+            "Net Loss (Barrels)": 3.63
+        },
+        "2012": {
+            "Net Loss (Barrels)": 3.1500000000000004
+        },
+        "2013": {
+            "Net Loss (Barrels)": 50.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "nustar terminals operations partnership l. p.": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 2.38
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "ldh energy mont belvieu l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 6.0
+        }
+    },
+    "kinder morgan energy partners, l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "centurion pipeline l.p.": {
+        "2010": {
+            "Net Loss (Barrels)": 250.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 990.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 233.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 244.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 294.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 35.0
+        }
+    },
+    "harbor pipeline co": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "enterprise crude pipeline llc": {
+        "2010": {
+            "Net Loss (Barrels)": 27.71
+        },
+        "2011": {
+            "Net Loss (Barrels)": 11726.97
+        },
+        "2012": {
+            "Net Loss (Barrels)": 169.97
+        },
+        "2013": {
+            "Net Loss (Barrels)": 9.68
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 226.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 276.0
+        },
+        "2017": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bp west coast products l.l.c.": {
+        "2010": {
+            "Net Loss (Barrels)": 107.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 3.4000000000000004
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "unocal pipeline co - eastern region": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 4.0
+        }
+    },
+    "coffeyville resources crude transportation, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 4.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "roadrunner pipeline, l.l.c.": {
+        "2010": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.12
+        },
+        "2014": {
+            "Net Loss (Barrels)": 1.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.25
+        },
+        "2016": {
+            "Net Loss (Barrels)": 14.0
+        }
+    },
+    "denbury onshore, llc": {
+        "2010": {
+            "Net Loss (Barrels)": 0.29
+        },
+        "2011": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "oiltanking, houston lp": {
+        "2010": {
+            "Net Loss (Barrels)": 0.48
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "mid-continent fractionation and storage, l.l.c.": {
+        "2010": {
+            "Net Loss (Barrels)": 4.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 140.0
+        }
+    },
+    "mustang pipe line partners": {
+        "2010": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "buckeye development & logistics, llc": {
+        "2011": {
+            "Net Loss (Barrels)": 0.02
+        },
+        "2016": {
+            "Net Loss (Barrels)": 2.0
+        }
+    },
+    "buckeye gulf coast pipeline lp": {
+        "2011": {
+            "Net Loss (Barrels)": 28.0
+        }
+    },
+    "pipelines of puerto rico incd, the": {
+        "2011": {
+            "Net Loss (Barrels)": 26.0
+        }
+    },
+    "dcp midstream": {
+        "2011": {
+            "Net Loss (Barrels)": 995.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 12.8
+        },
+        "2014": {
+            "Net Loss (Barrels)": 552.6
+        },
+        "2015": {
+            "Net Loss (Barrels)": 770.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 305.98
+        }
+    },
+    "equistar chemicals, l.p.": {
+        "2011": {
+            "Net Loss (Barrels)": 288.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 6.15
+        }
+    },
+    "transpetco transport co.": {
+        "2011": {
+            "Net Loss (Barrels)": 2530.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 26.0
+        }
+    },
+    "denbury green pipeline-texas, llc": {
+        "2011": {
+            "Net Loss (Barrels)": 2.4
+        }
+    },
+    "front range pipeline, llc.": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 2.0
+        }
+    },
+    "denbury gulf coast pipelines, llc": {
+        "2011": {
+            "Net Loss (Barrels)": 8.36
+        }
+    },
+    "bp usfo/logistics": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 11.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.08
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "martin operating partnership, l.p.": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron petrochemical pipeline llc": {
+        "2011": {
+            "Net Loss (Barrels)": 5.460000000000001
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 6.0
+        }
+    },
+    "kinder morgan cochin llc": {
+        "2011": {
+            "Net Loss (Barrels)": 5648.76
+        },
+        "2013": {
+            "Net Loss (Barrels)": 253.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.17
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "paramount petroleum corp": {
+        "2011": {
+            "Net Loss (Barrels)": 0.9
+        }
+    },
+    "holly energy partners - operating, l.p.": {
+        "2011": {
+            "Net Loss (Barrels)": 6.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 561.36
+        },
+        "2013": {
+            "Net Loss (Barrels)": 5564.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 793.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1.88
+        },
+        "2016": {
+            "Net Loss (Barrels)": 18.240000000000002
+        }
+    },
+    "wolverine pipeline co": {
+        "2011": {
+            "Net Loss (Barrels)": 3.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 9.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "crimson pipeline l.p.": {
+        "2011": {
+            "Net Loss (Barrels)": 7.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 15.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 3.28
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1.6
+        },
+        "2016": {
+            "Net Loss (Barrels)": 375.0
+        }
+    },
+    "mobil chemical co": {
+        "2011": {
+            "Net Loss (Barrels)": 0.14
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.2
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.2
+        },
+        "2014": {
+            "Net Loss (Barrels)": 4.5
+        }
+    },
+    "seadrift pipeline corp": {
+        "2011": {
+            "Net Loss (Barrels)": 1967.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 2.4000000000000004
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.38
+        }
+    },
+    "central florida pipeline corp": {
+        "2011": {
+            "Net Loss (Barrels)": 627.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "kern oil & refining co.": {
+        "2011": {
+            "Net Loss (Barrels)": 0.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "mobil pacific pipeline co": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "valero refining company - california": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "tidelands oil production company": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "olympic pipe line company": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron midstream pipelines llc": {
+        "2011": {
+            "Net Loss (Barrels)": 3.43
+        },
+        "2012": {
+            "Net Loss (Barrels)": 3.75
+        },
+        "2013": {
+            "Net Loss (Barrels)": 23702.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.02
+        }
+    },
+    "motiva enterprise llc": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2012": {
+            "Net Loss (Barrels)": 23.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "oiltanking port neches, llc": {
+        "2011": {
+            "Net Loss (Barrels)": 4.0
+        }
+    },
+    "transmontaigne operating company l.p.": {
+        "2011": {
+            "Net Loss (Barrels)": 1330.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "st. james oil corporation": {
+        "2011": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "total petrochemicals pipeline usa , inc.": {
+        "2011": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "enbridge storage (patoka) l.l.c.": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "lion oil trading & transportation, inc": {
+        "2012": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 300.0
+        }
+    },
+    "kinder morgan wink pipeline lp": {
+        "2012": {
+            "Net Loss (Barrels)": 7.09
+        },
+        "2013": {
+            "Net Loss (Barrels)": 1.25
+        },
+        "2014": {
+            "Net Loss (Barrels)": 193.1
+        },
+        "2015": {
+            "Net Loss (Barrels)": 13.95
+        }
+    },
+    "petroleum fuel and terminal company": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "harvest pipeline company": {
+        "2012": {
+            "Net Loss (Barrels)": 140.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 305.07
+        },
+        "2016": {
+            "Net Loss (Barrels)": 9.24
+        }
+    },
+    "dixie pipeline company llc": {
+        "2012": {
+            "Net Loss (Barrels)": 4.3
+        },
+        "2016": {
+            "Net Loss (Barrels)": 4990.11
+        }
+    },
+    "bp pipelines (alaska), inc": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "citgo petroleum corporation (terminals)": {
+        "2012": {
+            "Net Loss (Barrels)": 0.36
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bridger pipeline llc": {
+        "2012": {
+            "Net Loss (Barrels)": 35.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 693.0
+        }
+    },
+    "phillips 66 pipeline llc": {
+        "2012": {
+            "Net Loss (Barrels)": 4.84
+        },
+        "2013": {
+            "Net Loss (Barrels)": 522.02
+        },
+        "2014": {
+            "Net Loss (Barrels)": 6.37
+        },
+        "2015": {
+            "Net Loss (Barrels)": 3.13
+        },
+        "2016": {
+            "Net Loss (Barrels)": 81.5
+        }
+    },
+    "energy transfer company": {
+        "2012": {
+            "Net Loss (Barrels)": 4284.6900000000005
+        },
+        "2013": {
+            "Net Loss (Barrels)": 35.379999999999995
+        },
+        "2014": {
+            "Net Loss (Barrels)": 3992.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 470.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 764.5
+        }
+    },
+    "rose rock midstream l.p.": {
+        "2012": {
+            "Net Loss (Barrels)": 10.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 11.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 23.69
+        },
+        "2015": {
+            "Net Loss (Barrels)": 2.2
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bp oil pipeline co": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "the dow chemical company": {
+        "2012": {
+            "Net Loss (Barrels)": 132.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "oneok ngl pipeline, llc": {
+        "2012": {
+            "Net Loss (Barrels)": 6719.5
+        },
+        "2013": {
+            "Net Loss (Barrels)": 17.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 573.54
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1669.49
+        },
+        "2016": {
+            "Net Loss (Barrels)": 23.369999999999997
+        }
+    },
+    "delek pipeline texas, inc": {
+        "2012": {
+            "Net Loss (Barrels)": 5.0
+        }
+    },
+    "tampa bay pipeline co.": {
+        "2012": {
+            "Net Loss (Barrels)": 0.1
+        }
+    },
+    "west coast terminal pipeline  (wctp)": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "energy xxi pipeline, llc": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "key pipeline limited": {
+        "2012": {
+            "Net Loss (Barrels)": 200.0
+        }
+    },
+    "bkep crude, llc": {
+        "2012": {
+            "Net Loss (Barrels)": 2.6
+        }
+    },
+    "mobil  pipe  line company": {
+        "2012": {
+            "Net Loss (Barrels)": 0.25
+        },
+        "2013": {
+            "Net Loss (Barrels)": 1090.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 4.4
+        }
+    },
+    "exxonmobil refining and supply company": {
+        "2012": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "enbridge energy marketing llc": {
+        "2012": {
+            "Net Loss (Barrels)": 7.0
+        },
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "delek logistics operating, llc.": {
+        "2013": {
+            "Net Loss (Barrels)": 1.2
+        },
+        "2014": {
+            "Net Loss (Barrels)": 177.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 22.0
+        }
+    },
+    "genesis pipeline usa, l.p.": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 30.0
+        }
+    },
+    "enbridge pipelines (toledo) inc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "collins pipeline co": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "cypress interstate pipeline llc": {
+        "2013": {
+            "Net Loss (Barrels)": 37.16
+        }
+    },
+    "mccain pipeline company": {
+        "2013": {
+            "Net Loss (Barrels)": 50.76
+        }
+    },
+    "citgo petroleum corporation (refinery)": {
+        "2013": {
+            "Net Loss (Barrels)": 2.9
+        }
+    },
+    "loop llc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.1
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.04
+        }
+    },
+    "harvest-marks pipeline, llc": {
+        "2013": {
+            "Net Loss (Barrels)": 72.0
+        }
+    },
+    "double eagle pipeline llc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 28.3
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron u.s.a. inc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.01
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "tesoro high plains pipeline company llc": {
+        "2013": {
+            "Net Loss (Barrels)": 14744.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "tesoro logistics operations llc - southern california": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "markwest liberty midstream & resources, llc": {
+        "2013": {
+            "Net Loss (Barrels)": 11405.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 29.0
+        }
+    },
+    "hfotco llc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "markwest michigan pipeline, llc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "exxonmobil oil corporation-terminals": {
+        "2013": {
+            "Net Loss (Barrels)": 20.0
+        }
+    },
+    "genesis free state pipeline, llc": {
+        "2013": {
+            "Net Loss (Barrels)": 0.1
+        }
+    },
+    "thunder basin pipeline, llc": {
+        "2013": {
+            "Net Loss (Barrels)": 15.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "navajo nation oil and gas company": {
+        "2013": {
+            "Net Loss (Barrels)": 1.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "western refining southwest, inc": {
+        "2013": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2014": {
+            "Net Loss (Barrels)": 0.5
+        }
+    },
+    "express holdings (usa), llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "national coop refinery assco": {
+        "2014": {
+            "Net Loss (Barrels)": 12.72
+        }
+    },
+    "bkep pipeline, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 65.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 14.0
+        }
+    },
+    "targa resources operating llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "chevron products company - hawaii": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "western refining pipeline company": {
+        "2014": {
+            "Net Loss (Barrels)": 1.5
+        }
+    },
+    "pacific coast energy company, lp": {
+        "2014": {
+            "Net Loss (Barrels)": 3.0
+        }
+    },
+    "glass mountain pipeline": {
+        "2014": {
+            "Net Loss (Barrels)": 5.35
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "tri-states ngl pipeline llc": {
+        "2014": {
+            "Net Loss (Barrels)": 3.0
+        }
+    },
+    "calumet montana refining, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 1.24
+        }
+    },
+    "north dakota pipeline company llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "jp energy marketing, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 20.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "hiland crude, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 100.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "kinder morgan crude and condensate llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "butte pipeline co": {
+        "2014": {
+            "Net Loss (Barrels)": 12.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "wyoming pipeline company": {
+        "2014": {
+            "Net Loss (Barrels)": 8.5
+        },
+        "2015": {
+            "Net Loss (Barrels)": 38.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 11.5
+        }
+    },
+    "laclede gas co": {
+        "2014": {
+            "Net Loss (Barrels)": 0.05
+        }
+    },
+    "skeisui specialty chemicals america": {
+        "2014": {
+            "Net Loss (Barrels)": 445.27
+        }
+    },
+    "gel offshore pipeline, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.1
+        }
+    },
+    "chemoil terminals corp.": {
+        "2014": {
+            "Net Loss (Barrels)": 389.0
+        }
+    },
+    "genesis pipeline texas, l.p.": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "freeport-mcmoran oil & gas": {
+        "2014": {
+            "Net Loss (Barrels)": 0.12
+        }
+    },
+    "tesoro socal pipeline company llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "williams field services": {
+        "2014": {
+            "Net Loss (Barrels)": 1924.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 1444.85
+        },
+        "2016": {
+            "Net Loss (Barrels)": 4.96
+        }
+    },
+    "tallgrass pony express pipeline, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 202.62
+        },
+        "2015": {
+            "Net Loss (Barrels)": 300.48
+        }
+    },
+    "fieldwood energy, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.02
+        }
+    },
+    "dakota gasification company": {
+        "2014": {
+            "Net Loss (Barrels)": 1.0
+        }
+    },
+    "enbridge storage (cushing) l.l.c.": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "blue racer midstream, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "western refining pipeline, llc": {
+        "2014": {
+            "Net Loss (Barrels)": 4.92
+        },
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "phillips 66 company - sweeny refinery": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "crimson gulf, llc": {
+        "2015": {
+            "Net Loss (Barrels)": 220.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.5
+        }
+    },
+    "asig - honolulu": {
+        "2015": {
+            "Net Loss (Barrels)": 480.0
+        }
+    },
+    "inland corporation": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "double h": {
+        "2015": {
+            "Net Loss (Barrels)": 5.58
+        }
+    },
+    "valero refining-texas l.p.": {
+        "2015": {
+            "Net Loss (Barrels)": 976.0
+        }
+    },
+    "countrymark refining and logistics, llc": {
+        "2015": {
+            "Net Loss (Barrels)": 11.5
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.1
+        }
+    },
+    "ultramar inc": {
+        "2015": {
+            "Net Loss (Barrels)": 208.0
+        }
+    },
+    "tesoro logistics operations llc - mountain region": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "enbridge pipelines (east texas) l.p.": {
+        "2015": {
+            "Net Loss (Barrels)": 0.1
+        }
+    },
+    "enbridge pipelines (southern lights) l.l.c.": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "rimrock midstream": {
+        "2015": {
+            "Net Loss (Barrels)": 3.0
+        }
+    },
+    "gulf state pipeline co inc": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "usg wheatland pipeline, llc": {
+        "2015": {
+            "Net Loss (Barrels)": 2.0
+        }
+    },
+    "kinder morgan wink pipeline llc ": {
+        "2015": {
+            "Net Loss (Barrels)": 8.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 0.29
+        }
+    },
+    "medallion operating company, llc": {
+        "2015": {
+            "Net Loss (Barrels)": 2.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 31.0
+        }
+    },
+    "vitol midstream, llc": {
+        "2015": {
+            "Net Loss (Barrels)": 23.0
+        },
+        "2016": {
+            "Net Loss (Barrels)": 12.0
+        }
+    },
+    "valero partners operating co. llc": {
+        "2015": {
+            "Net Loss (Barrels)": 30.0
+        }
+    },
+    "energy xxi usa, inc": {
+        "2015": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "imtt-bayonne": {
+        "2016": {
+            "Net Loss (Barrels)": 395.05
+        }
+    },
+    "nutaaq pipeline, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "frontier energy services, l.l.c.": {
+        "2016": {
+            "Net Loss (Barrels)": 60.0
+        }
+    },
+    "jp energy permian, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "consolidated edison co of ny": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "ohio river valley pipeline, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 25.0
+        }
+    },
+    "summit midstream partners, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "republic midstream, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 2.0
+        }
+    },
+    "dow pipeline co - cayuse": {
+        "2016": {
+            "Net Loss (Barrels)": 0.7
+        }
+    },
+    "enlink processing services, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 47.62
+        }
+    },
+    "thums long beach co": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "camino real gathering co llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "kuraray america, inc. ": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "bhp billiton petroleum (eagle ford gathering) llc": {
+        "2016": {
+            "Net Loss (Barrels)": 5.6
+        }
+    },
+    "delek crude logistics, llc.": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "hawaii independent energy": {
+        "2016": {
+            "Net Loss (Barrels)": 2.0
+        }
+    },
+    "itc pipeline company, llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.18
+        }
+    },
+    "torrance valley pipeline company llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "ngl crude terminals": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "texstar midstream logistics, lp": {
+        "2016": {
+            "Net Loss (Barrels)": 150.0
+        }
+    },
+    "magellan crude oil pipeline company, l.p.": {
+        "2016": {
+            "Net Loss (Barrels)": 0.0
+        }
+    },
+    "tesoro logistics northwest pipeline llc": {
+        "2016": {
+            "Net Loss (Barrels)": 0.71
+        }
+    }
+}
